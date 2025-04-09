@@ -32,6 +32,11 @@ class TokenCounter:
     
     def count_tokens(self, text: str) -> int:
         """Count the number of tokens in a text."""
+        if text is None:
+            raise ValueError("Input text cannot be None")
+        if not text.strip():
+            return 0  # Empty or whitespace-only text has 0 tokens
+            
         return len(self.encoding.encode(text))
 
 class CharacterTextSplitter(TextSplitter):
@@ -43,6 +48,11 @@ class CharacterTextSplitter(TextSplitter):
         self.chunk_overlap = chunk_overlap
     
     def split(self, text: str) -> List[str]:
+        if text is None:
+            raise ValueError("Input text cannot be None")
+        if not text.strip():
+            return []  # Return empty list for empty or whitespace-only text
+        
         chunks = []
         for i in range(0, len(text), self.chunk_size - self.chunk_overlap):
             chunks.append(text[i : i + self.chunk_size])
@@ -69,6 +79,11 @@ class SentenceTokenizer:
     
     def tokenize(self, text: str) -> List[str]:
         """Split text into sentences with special case handling."""
+        if text is None:
+            raise ValueError("Input text cannot be None")
+        if not text.strip():
+            return []  # Return empty list for empty or whitespace-only text
+            
         # Handle common PDF extraction issues
         text = text.replace('\n', ' ')
         text = re.sub(r'\s+', ' ', text)
@@ -114,6 +129,11 @@ class SentenceTextSplitter(TextSplitter):
         )
     
     def split(self, text: str) -> List[str]:
+        if text is None:
+            raise ValueError("Input text cannot be None")
+        if not text.strip():
+            return []  # Return empty list for empty or whitespace-only text
+        
         sentences = self.sentence_tokenizer.tokenize(text)
         chunks = []
         current_chunk = []
