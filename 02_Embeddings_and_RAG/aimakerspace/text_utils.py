@@ -8,6 +8,21 @@ from abc import ABC, abstractmethod
 
 __all__ = ['TextFileLoader', 'CharacterTextSplitter', 'SentenceTextSplitter']
 
+# Set up NLTK data path to be local to the project
+nltk_data_dir = os.path.join(os.getcwd(), '.nltk_data')
+os.makedirs(nltk_data_dir, exist_ok=True)
+nltk.data.path.insert(0, nltk_data_dir)
+
+# Download required NLTK resources if not already present
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt', download_dir=nltk_data_dir)
+try:
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    nltk.download('punkt_tab', download_dir=nltk_data_dir)
+
 
 class TextSplitter(ABC):
     """Abstract base class for text splitters."""
@@ -208,6 +223,7 @@ class TextFileLoader:
 if __name__ == "__main__":
     loader = TextFileLoader("data/KingLear.txt")
     loader.load()
+    splitter = SentenceTextSplitter()
     splitter = SentenceTextSplitter()
     chunks = splitter.split_texts(loader.documents)
     print(len(chunks))
