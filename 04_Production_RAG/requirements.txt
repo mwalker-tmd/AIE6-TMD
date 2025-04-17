@@ -1,0 +1,9 @@
+python-dotenv
+nest-asyncio
+langchain
+langchain-community
+langchain-openai
+qdrant-client
+pandas
+langsmith
+openai
