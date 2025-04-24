@@ -37,7 +37,7 @@ The notebook Colab link is located [here](https://colab.research.google.com/driv
 The completed notebook!
 
 <details>
-<summary>🚧 BONUS CHALLENGE 🚧</summary>
+<summary>🚧 BONUS CHALLENGE 🚧 (OPTIONAL)</summary>
 
 > NOTE: Completing this challenge will provide full marks on the assignment, regardless of the completion of the notebook. You do not need to complete this in the notebook for full marks.
 
