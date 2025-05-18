@@ -21,4 +21,6 @@ dependencies = [
     "pymupdf>=1.25.3",
     "xmltodict>=0.14.2",
     "jupyter>=1.1.1",
+    "pydantic>=2.6.1",
+    "requests>=2.31.0",
 ]
