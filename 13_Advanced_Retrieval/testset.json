@@ -1,176 +1,177 @@
 [
   {
     "eval_sample": {
-      "user_input": "What role does Keanu Reeves play in John Wick?",
+      "user_input": "How does the plot of John Wick compare to Liam Neeson's role in Taken?",
       "retrieved_contexts": null,
       "reference_contexts": [
         ": 0\nReview: The best way I can describe John Wick is to picture Taken but instead of Liam Neeson it's Keanu Reeves and instead of his daughter it's his dog. That's essentially the plot of the movie. John Wick (Reeves) is out to seek revenge on the people who took something he loved from him. It's a beautifully simple premise for an action movie - when action movies get convoluted, they get bad i.e. A Good Day to Die Hard. John Wick gives the viewers what they want: Awesome action, stylish stunts, kinetic chaos, and a relatable hero to tie it all together. John Wick succeeds in its simplicity."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "Keanu Reeves plays the role of John Wick, a character who seeks revenge on the people who took something he loved from him, with the plot revolving around his quest for vengeance.",
+      "reference": "The plot of John Wick can be described as similar to Taken, but instead of Liam Neeson, it features Keanu Reeves, and instead of his daughter, it's his dog. Both films involve the protagonist seeking revenge for something they loved being taken from them.",
       "rubrics": null
     },
     "synthesizer_name": "single_hop_specifc_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "Wht is yur opinon on the John Wick series?",
+      "user_input": "What has been the reception of the 'John Wick' film series, particularly with the release of its fourth installment?",
       "retrieved_contexts": null,
       "reference_contexts": [
         ": 2\nReview: With the fourth installment scoring immensely at the cinemas as I'm submitting this review, and after three previous films that are apparently loved by everyone else in the world, I thought perhaps it would be time for me check out \"John Wick\"."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "The reviewer notes that the fourth installment of the John Wick series is scoring immensely at the cinemas and acknowledges that the previous three films are apparently loved by everyone else in the world. This suggests a recognition of the series' popularity and success.",
+      "reference": "The 'John Wick' film series has been immensely successful, with the fourth installment scoring highly at the cinemas. The previous three films are apparently loved by audiences worldwide.",
       "rubrics": null
     },
     "synthesizer_name": "single_hop_specifc_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "What make John Wick movie special?",
+      "user_input": "Wut makes Keanu's performnce in John Wick so special, even tho the story is simpl?",
       "retrieved_contexts": null,
       "reference_contexts": [
         ": 3\nReview: John wick has a very simple revenge story. It can be summarized as \"Keanu gets angry and shoots bad guys\" but what makes it special? Directed by Chad Stahelski who's a stunt specialist boy does it show because the main selling point in the film are some real virtuoso action sequences, well made choreographies. Unlike today's action movies, it doesn't use quick-cuts or shaky cameras actually see what's going on."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "John Wick is special because it features real virtuoso action sequences and well-made choreographies, directed by Chad Stahelski, a stunt specialist. Unlike today's action movies, it doesn't use quick-cuts or shaky cameras, allowing viewers to actually see what's going on.",
+      "reference": "Keanu's performance in John Wick is special because the film, directed by Chad Stahelski, features real virtuoso action sequences and well-made choreographies. Unlike today's action movies, it doesn't use quick-cuts or shaky cameras, allowing viewers to actually see what's going on.",
       "rubrics": null
     },
     "synthesizer_name": "single_hop_specifc_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "How does the involvement of Russian mobsters contribute to the narrative of John Wick, and what impact does it have on the film's storytelling?",
+      "user_input": "What John Wick do when them mobsters mess with him and his dog?",
       "retrieved_contexts": null,
       "reference_contexts": [
         ": 4\nReview: Though he no longer has a taste for wet work, retired assassin and \"Boogeyman\" John Wick has suffered a personal tragedy that's left a huge void in his life. When he and his dog (really the last meaningful thing he has left) fall victim to a scummy group of Russian mobsters, he emerges from his shell with vengeance on his mind. Slow and ambiguous at first, but reveals more as it goes along, and once it kicks into gear it rarely lets up with plenty of stylized, visceral action scenes, an impressive arsenal of weaponry, plus sly direction and editing that give it the feel of a violent music video at times. Preposterously fun to watch, it just doesn't have much of a story at its disposal, not to mention all the over-the-top bloodletting and mayhem eventually becomes redundant. Savvy, indestructible Reeves looks right at home, and delivers many of his lines with a sardonic wit. **\u00bd"
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "The involvement of Russian mobsters in John Wick serves as the catalyst for the protagonist's return to his former life as an assassin. After suffering a personal tragedy and losing the last meaningful thing in his life, his dog, to a group of Russian mobsters, John Wick is driven by vengeance. This sets the stage for the film's narrative, which, while slow and ambiguous at first, eventually reveals more and rarely lets up once it kicks into gear. The Russian mobsters' actions propel the story forward, leading to stylized, visceral action scenes and contributing to the film's overall feel of a violent music video. However, despite the fun and action, the story itself is noted to be lacking, with the over-the-top bloodletting and mayhem becoming redundant.",
+      "reference": "When John Wick and his dog fall victim to a scummy group of Russian mobsters, he emerges from his shell with vengeance on his mind, leading to plenty of stylized, visceral action scenes.",
       "rubrics": null
     },
     "synthesizer_name": "single_hop_specifc_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "How does the theme of revenge manifest in the action sequences of 'John Wick: Chapter 2'?",
+      "user_input": "How does the revenge theme in John Wick 2 compare to the one man army style of action movies from the 80s?",
       "retrieved_contexts": null,
       "reference_contexts": [
-        "<1-hop>\n\n: 23\nReview: I love me a bit of the old ultra-violence, but I also like a plot of some kind to go with all of the gunfire, blood and broken bones. Failing that, the gory mayhem had better be something special - something that breaks new ground in terms of action cinema. John Wick Chapter 2 is relentlessly violent, Keanu Reeves' eponymous hitman laying waste to almost everyone he crosses paths with, once again finishing most victims with a shot to the head, but the action is simply more of the same, director Chad Stahelski bringing nothing new to the table.",
-        "<2-hop>\n\n: 4\nReview: \"John Wick: Chapter 2\" (2017 release; 122 min.) continues the 'adventures' of former (?) hit man John Wick. As the movie opens, we are immediately thrown in the middle of a car vs. bike chase, and next thing we know, we find our man retrieving his beloved Mustang from a chop shop in NYC, but not without cars flying about, and dozens of dead or wounded bodies. And that's all in the pre-opening credits! As the story unfolds, Wick, who wants \"out, is nevertheless forced back \"in\" when an Italian baddie calls in a favor and Wick has no choice but to accept. To tell you more of the plot would spoil your viewing experience, you'll just have to see for yourself how it all plays out."
+        "<1-hop>\n\n: 8\nReview: In this 2nd installment of John Wick, the stylish visual and hard core action returns twice the level of the first film. So prepare for another suspenseful and cliffhanging sequences flow from this action movie when you watch this. The story goes deeper and the action scenes were incredibly entertaining! The revenge theme was still part of the movie's plot but this time the focus is the personal backstab of Wick. Keanu Reeves delivers again a notable performance as a titular character. This film is what a sequel movie should be - justifying the connection to the predecessor movie that made it successful by expanding its story and maintaining the elements that made it a superb film. The ending of this film opened the possibility of many more franchise of this movie.",
+        "<2-hop>\n\n: 21\nReview: Wow, this is one of the best action movies that I have seen in quite some time. It is really what I was hoping for in a good old fashion action movie that was done entirely on hand to hand combat and gun shootings. This is a wonderful kick-ass movie where the killings were done so brutally with lots of bloody scenes. It also kind of remind me of the various one man army movies in the 80s played by Sylvester Stallone or Arnold Schwarzenegger. If you have seen John Wick the original (which I hope you have seen it before you see this one), then you will be amazed with this sequel. It was bloodier, more fighting, more assassins trying to kill John and longer running time. What I can say is this is an even better version than the original movie. Although in term of story, there is a bit of a more complexity in the sequel as opposed to the simplicity of the original movie."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "In 'John Wick: Chapter 2', the theme of revenge is intricately woven into the action sequences. The film opens with a high-octane car vs. bike chase, setting the tone for the relentless violence that follows. John Wick, portrayed by Keanu Reeves, is forced back into the world of hitmen when an Italian antagonist calls in a favor, compelling him to seek vengeance. The action sequences are marked by intense choreography, with Wick dispatching his enemies with precision, often finishing them with a shot to the head. Despite the film's relentless violence, some reviewers feel that it does not break new ground in action cinema, as the director Chad Stahelski offers more of the same without introducing novel elements to the genre.",
+      "reference": "In John Wick 2, the revenge theme is intricately woven into the plot, focusing on the personal betrayal of the protagonist, John Wick. This theme is complemented by intense action sequences reminiscent of the one man army style of action movies from the 80s, such as those featuring Sylvester Stallone or Arnold Schwarzenegger. The film combines hand-to-hand combat and gunfights, creating a brutal and bloody spectacle that enhances the revenge narrative, while also expanding on the complexity of the story compared to the original movie.",
       "rubrics": null
     },
     "synthesizer_name": "multi_hop_abstract_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "How do the martial arts sequences in John Wick 3 compare to typical action movies, and what makes them stand out according to reviews?",
+      "user_input": "How does Keanu Reeves' performance contribute to the success of the John Wick franchise, particularly in the context of its intense action sequences?",
       "retrieved_contexts": null,
       "reference_contexts": [
-        "<1-hop>\n\n: 18\nReview: The first John Wick movie had a story. It had a plot and some character development. This movie has no such thing.\nI like an action movie as much as the next guy, but this was way over the top. If you like gun play, endless, goofy, martial arts crap, and broken glass, this movie is for you!\nThe last fight sequence was downright boring. I found myself wishing that the movie would just end; I didn't care who killed who. In fact, I was kind of hoping it would be Wick so that the movie would end and I could go home. The movie is about 30 minutes too long.\nHere's hoping that this is the end of the JW franchise, but I'm sure it won't be. I can guarantee i will not be fooled into purchasing a ticket to JW 4!",
-        "<2-hop>\n\n: 16\nReview: John Wick 3 is without a doubt the best action movie to have come out in a few years. And its so surprising and refreshing to see that movies like this still exist. Most action movies you see is filled with ridiculous amounts of shaky-cam, fast edits and way over-the-top fights. This is perfect. You can see all action clear as day, and by god the stuns in this film are extraordinary. Why the Academy Awards don't award talent like this is beyond me. There were times that I wondered if they had used CGI, because someone nuts must be willing to throw themselves from motorbikes and through glass. But whatever case it is, its a dam joy to watch."
+        "<1-hop>\n\n: 14\nReview: By now you know what to expect from a John Wick movie. I thought the franchise was losing a little momentum in chapter 3 so I was worried this could be disappointing. It's not. It's even more on steroids than any Wick before! Even close to 3 hours it doesn't feel to long which is very special for a action movie. This franchise has set new standards. If anybody says a movie is good like John Wick, it better f'n be! The set pieces as everyone mentioned before are really insane this time. The Tokyo sceney with illuminated cherry blossoms was beautiful. The only super illogical thing that bothered me was that nobody flinched at the nightclub, eventually they did but after a whole 10 minute beatdown through the whole club, but then again it's a shady nightclub for high table people. If you liked the first three movies, get your ass to the cinema. Yeah.",
+        "<2-hop>\n\n: 6\nReview: In 2014, a Keanu Reeves revenge thriller John Wick became a surprise hit. I originally skipped out on the film as I felt that the trailers only showed an assassin story that I felt I've seen before. As far as I'm concerned, I made a big mistake. Before seeing the sequel, I felt it was important to watch the first one. I rented it on Amazon Prime and I was shock by what I saw; a dark, stylish, and fun action movie that is doing it's own thing. Though I've seen plenty stories about revenge (The Count of Monte Cristo and Moby Dick being the prime examples), I can't recall one over someone's pet being murdered.",
+        "<3-hop>\n\n: 9\nReview: At first glance, John Wick sounds like a terrible film on paper but with the slickness of Keanu Reeves' performance as the titular character and the sheer brilliance in its action sequences, this marks the best action film of the year and one of the absolute best in the past decade. Following a brutal home invasion that leaves his beloved dog murdered by thugs from his past, John Wick vows revenge on the ones who have taken what he loves most. Like I said, on paper, this seems like a direct-to-DVD slopfest starring John Cena but as a film with Keanu Reeves as the lead, it marks the very welcomed return for Reeves to the genre. John Wick is insanely fun, violently brutal and an overall romp especially for those disappointed by The Expendables 3. John Wick is propelled by Tarantino-esque dialog mixed with the swagger of action stars from the 70s. Reeves literally emulates cool in this film and does it with such confidence, that we don't even doubt the character...even when he kills countless bad guys with extreme force in some utterly ridiculous and implausible situations. We don't doubt it for a minute. This is EXACTLY what you want out of an action film. It is briskly paced, brilliantly shot and meticulously choreographed and keeps you wanting more and more. The supporting cast filled with the likes of John Legiuzamo, Ian McShane, and Willen Dafoe also keeps this film very interesting. These guys don't play good guys, hell, John Wick by traditional standards would be a bad guy in any other film. Every character is more ruthless than the next and pushes John Wick to be more ruthless than they are, creating a very cool dynamic between the character and the plot regarding the idea of how far is too far? However, don't expect some revelation from John Wick regarding the morality of bad and evil. This film wants you entertained and does so with brute force, it never lets up, not even for a second. One scene in particular that will have your blood pumping is a showdown between thugs and Wick in a nightclub. This action sequence remains the best in the film and will have you grasping your theater seat because of the sheer intensity of it. Overall, John Wick is slick, violent fun that turns into a remarkable, surprising film that will catch you off guard. It is THAT good. I highly recommend this film to action buffs especially but I'm sure those who just like a good movie will love it as well."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "The martial arts sequences in John Wick 3 are praised for their clarity and extraordinary stunts, which stand out compared to typical action movies that often rely on shaky-cam and fast edits. According to reviews, John Wick 3 offers a refreshing take on action films by allowing viewers to see all the action clearly, with stunts that are described as extraordinary and a joy to watch. This contrasts with the criticism of other action movies, which are often seen as over-the-top and less engaging.",
+      "reference": "Keanu Reeves' performance is pivotal to the success of the John Wick franchise. His portrayal of the titular character is marked by a slickness and confidence that elevates the film beyond its seemingly straightforward revenge plot. Reeves' ability to embody 'cool' with such assurance makes the character of John Wick believable, even in the face of implausible situations where he dispatches countless adversaries with extreme force. This performance, combined with meticulously choreographed action sequences, creates a dynamic and engaging experience for the audience. The nightclub showdown, in particular, is highlighted as a standout scene that showcases the intensity and brilliance of the action choreography, further cementing the film's status as a top-tier action movie. Reeves' return to the action genre with John Wick is seen as a welcome one, contributing significantly to the franchise's acclaim and setting new standards for action films.",
       "rubrics": null
     },
     "synthesizer_name": "multi_hop_abstract_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "Why John Wick Chapter 2 good but new one not?",
+      "user_input": "What are the contrasting opinions on the John Wick franchise, particularly focusing on the action sequences and plot, as seen in both positive and negative reviews?",
       "retrieved_contexts": null,
       "reference_contexts": [
-        "<1-hop>\n\n: 16\nReview: John Wick Chapter 2 pits Keanu Reeves' titular character against the mean and nefarious of the criminal underworld. Once again, Reeves proves that he is a force to be reckoned with in this ridiculous, over-the-top sequel that is every bit as fun as the original. These types of films are rarely known for their artistic value but John Wick: Chapter 2 sets the bar pretty high, not only in its action, but in it's set design and camera work. This is pure escapist entertainment and couldn't have come at a better time. Those wanting to take a break from watching the Oscar nominees, this film is exactly what you're looking for.",
-        "<2-hop>\n\n: 16\nReview: Ok, so I got back from seeing this entry yesterday night. I'm writing this review in the early hours after midnight as the film went on for a good whopping 2 hours & 39 minutes!! But we'll get to that in a bit...! Anyway, I was looking forward to this film since John Wick 3's release back in 2019 & this film has had a bit of a troubled history of getting pushed back until it finally got its March 2023 release. I must admit I was a bit skeptical, but, was looking forward to this as the John Wick films are ace, but this film was a bitter disappointment...!"
+        "<1-hop>\n\n: 19\nReview: The inevitable third chapter of the JOHN WICK franchise continues on a high with the same quality as the last. In fact, this may just pip that one to the post to be the best JOHN WICK yet. The pacing is spot on and the plotting is measured by a huge amount of action sequences, all of which fizz and crackle with skill and energy. The movie hits the ground running as Keanu faces off with a hulking character in a library and then Triads in a weapon shop, but what really amazes here is the sheer inventiveness of the non-repetitive action. There are horse and motorbike chases, a Moroccan brawl with fighting dogs, alongside the massive action of the climax. There also seems to be a greater emphasis on hand-to-hand combat, featuring the likes of RAID actors and old-timer Mark Dacascos, which is a real pleasure as the choreography is top-notch. In terms of sheer enjoyment, this is a film hard to beat, and to criticise it at all is unnecessary. Bring on the fourth!",
+        "<2-hop>\n\n: 22\nReview: HORRIBLE movie. I love John Wick. I mean I wouldn't pay to see one, but I love the series none the less. Even liked the third one even though the ending blew baby chunks. All the 10s and 9s scores are so damn fake it's hilarious. IMDB is a joke. Someone needs to start a real movie database and weed out the fake high scores, it's as ridiculous as John Wick 4. He walks away from every major injury or collision or building fall. Then he passes away from flesh wounds. What nonsense. The whole plot is nonsense. The fights scene are so boring. I got up to make a sandwich twice. Just the typical 100 judo throws and same shots to head. Numerous coup de grace's. I feel sorry for anyone who paid for this nonsense."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "John Wick Chapter 2 is praised for its over-the-top action, set design, and camera work, providing pure escapist entertainment. In contrast, the new film, despite anticipation, was a disappointment due to its lengthy runtime and troubled release history.",
+      "reference": "The John Wick franchise receives contrasting opinions, particularly regarding its action sequences and plot. A positive review praises the third installment for its high-quality action sequences, inventive choreography, and engaging pacing, highlighting scenes such as horse and motorbike chases, a Moroccan brawl with fighting dogs, and top-notch hand-to-hand combat featuring actors like Mark Dacascos. This review considers the film hard to beat in terms of sheer enjoyment and eagerly anticipates the next installment. In contrast, a negative review criticizes the franchise, particularly the fourth installment, for its unrealistic plot and repetitive fight scenes. The reviewer finds the action sequences boring, citing numerous judo throws and headshots, and expresses disbelief at the protagonist's ability to survive major injuries only to succumb to minor wounds. This review also questions the authenticity of high ratings on platforms like IMDB, suggesting they are inflated.",
       "rubrics": null
     },
     "synthesizer_name": "multi_hop_abstract_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "Why people think John Wick 4 lost its identity but still set new standards in action cinema?",
+      "user_input": "How John Wick movie show Hollywood action films with intense action and standout performances?",
       "retrieved_contexts": null,
       "reference_contexts": [
-        "<1-hop>\n\n: 4\nReview: I went to the cinema with great expectations. I have to admit that the photography is gorgeous, the locations are wonderful and the action sequences are well coordinated. However I feel that the true identity of this franchise was completely lost with this fourth chapter. The first two movies for me are the best because the stunts look more credible. \"Parabellum\" started to drop in quality, but it was still a solid flick. Here John suddenly became a superhero that can take any hit and can fall from every height and he can just keep going like nothing happened. When Chad Stahelski directed the first movie he was not expecting all this success and when the production company ordered sequels, he did not really know how to develop this saga. Now it is one of the biggest action franchises with a TV show that will be aired in the future and maybe with a 5th entry that was already approved. This got definitely out of hand and Wick basically became the parody of himself, with scenes that have forced comedic moments that do not quite deliver. In my perspective they really do not know what to invent anymore. I really hope that in the future screenwriters and the director will come up with better ideas, because it is a series with potential and it showed it in the previous chapters, but in this case it just felt pointless and purposeless.",
-        "<2-hop>\n\n: 14\nReview: By now you know what to expect from a John Wick movie. I thought the franchise was losing a little momentum in chapter 3 so I was worried this could be disappointing. It's not. It's even more on steroids than any Wick before! Even close to 3 hours it doesn't feel to long which is very special for a action movie. This franchise has set new standards. If anybody says a movie is good like John Wick, it better f'n be! The set pieces as everyone mentioned before are really insane this time. The Tokyo sceney with illuminated cherry blossoms was beautiful. The only super illogical thing that bothered me was that nobody flinched at the nightclub, eventually they did but after a whole 10 minute beatdown through the whole club, but then again it's a shady nightclub for high table people. If you liked the first three movies, get your ass to the cinema. Yeah."
+        "<1-hop>\n\n: 20\nReview: After resolving his issues with the Russian mafia, John Wick (Keanu Reeves) returns home. But soon the mobster Santino D'Antonio (Riccardo Scamarcio) visits him to show Wick's marker and tells that he needs to help. John Wicks refuses since he is retired and Santino blows-up his house. John Wick meets the owner of the Continental hotel in New York City, Winston (Ian McShane), and he tells that Wick cannot violate the Mafia rules and shall honor the marker. Santino asks John Wick to kill his sister Gianna D'Antonio (Claudia Gerini) in Rome so that he can sit on the High Table of the criminal organizations. When John Wicks accomplishes his assignment, Santino puts a seven-million dollar contract on him attracting professional killers from everywhere. But Wick promises to kill Santino that is not protected by his marker anymore.",
+        "<2-hop>\n\n: 11\nReview: JOHN WICK is a rare example of Hollywood getting things spot-on when it comes to creating the near-perfect action film. JOHN WICK is a relentless, pulse-pounding thriller that has plenty of similarity to the Liam Neeson classic TAKEN, albeit with a more simplistic (and also more emotionally intense) plot line. This is the kind of lean, pared-down film-making that's all about intensity and momentum. It sits well with classic international fare like POINT BLANK, SLEEPLESS NIGHT, MEA CULPA, THE MAN FROM NOWHERE, and THE RAID films."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "Some viewers feel that John Wick 4 lost its identity because the protagonist, John Wick, seems to have become a superhero, surviving unrealistic scenarios, which makes the stunts less credible compared to the first two movies. However, others believe it set new standards in action cinema due to its intense action sequences and impressive set pieces, such as the Tokyo scene with illuminated cherry blossoms, despite some illogical moments like the nightclub fight. The film is seen as more intense than previous entries, maintaining audience engagement even with its long runtime.",
+      "reference": "The John Wick movie exemplifies Hollywood action films by delivering a relentless, pulse-pounding thriller that is both intense and emotionally engaging. The film features standout performances, particularly by Keanu Reeves as John Wick, who navigates a plot filled with high-stakes action sequences. The storyline involves John Wick being forced out of retirement to honor a marker, leading to a series of intense confrontations and a seven-million dollar contract on his life. This film is noted for its meticulous choreography and intensity, aligning it with other classic action films like TAKEN and THE RAID.",
       "rubrics": null
     },
     "synthesizer_name": "multi_hop_abstract_query_synthesizer"
   },
   {
     "eval_sample": {
-      "user_input": "Why did some fans feel that the John Wick series, especially by Parabellum, became too much and lost its true identity?",
-      "retrieved_contexts": null,
-      "reference_contexts": [
-        "<1-hop>\n\n: 2\nReview: The first three John Wick films came in fairly quick succession, with only five years between the first and third chapters, each film trying to top the one before in terms of wild set pieces. For me, it all became a bit too much, the action rapidly becoming too frenetic and over-the-top. By Parabellum (part three), I had had enough.",
-        "<2-hop>\n\n: 4\nReview: I went to the cinema with great expectations. I have to admit that the photography is gorgeous, the locations are wonderful and the action sequences are well coordinated. However I feel that the true identity of this franchise was completely lost with this fourth chapter. The first two movies for me are the best because the stunts look more credible. \"Parabellum\" started to drop in quality, but it was still a solid flick. Here John suddenly became a superhero that can take any hit and can fall from every height and he can just keep going like nothing happened. When Chad Stahelski directed the first movie he was not expecting all this success and when the production company ordered sequels, he did not really know how to develop this saga. Now it is one of the biggest action franchises with a TV show that will be aired in the future and maybe with a 5th entry that was already approved. This got definitely out of hand and Wick basically became the parody of himself, with scenes that have forced comedic moments that do not quite deliver. In my perspective they really do not know what to invent anymore. I really hope that in the future screenwriters and the director will come up with better ideas, because it is a series with potential and it showed it in the previous chapters, but in this case it just felt pointless and purposeless."
-      ],
-      "response": null,
-      "multi_responses": null,
-      "reference": "Some fans felt that the John Wick series, particularly by the time of Parabellum, became too much because the action sequences were perceived as too frenetic and over-the-top. By the third chapter, the attempt to top the previous films in terms of wild set pieces led to a sense of excess. Additionally, the fourth chapter was criticized for losing the franchise's true identity, with John Wick portrayed as a superhero who could withstand any hit and fall from any height without consequence. This shift in tone and credibility, along with forced comedic moments, contributed to the feeling that the series had become a parody of itself, losing the grounded and credible stunts that characterized the first two movies.",
-      "rubrics": null
-    },
-    "synthesizer_name": "multi_hop_specific_query_synthesizer"
-  },
-  {
-    "eval_sample": {
-      "user_input": "How do the reviews of 'John Wick: Chapter 3 - Parabellum' differ in terms of its visual style and plot execution?",
-      "retrieved_contexts": null,
-      "reference_contexts": [
-        "<1-hop>\n\n: 8\nReview: About 6 months ago I saw a picture of the set of 'John Wick: Chapter 3 - Parabellum' featuring Keanu Reeves on horseback shooting at motorcyclists. It was such a great looking shot that I have been waiting eagerly to see how it looked in the actual film ever since. It did not let me down. The style this film possesses is insane. It is one of the best looking action films I have ever seen.",
-        "<2-hop>\n\n: 11\nReview: The overrated \"John Wick: Chapter 3 - Parabellum\" is an action film that gives the sensation of watching a boring videogame. The plot is only John Wick running and killing the assassins that want the 14 million dollar award for his head. After the initial original deaths, the film becomes tiresome, boring and repetitive. My vote is three."
-      ],
-      "response": null,
-      "multi_responses": null,
-      "reference": "The reviews of 'John Wick: Chapter 3 - Parabellum' differ significantly in their assessment of the film's visual style and plot execution. One review praises the film for its 'insane' style, highlighting it as one of the best-looking action films, particularly impressed by a scene featuring Keanu Reeves on horseback. In contrast, another review criticizes the film as overrated, describing it as akin to a boring video game with a repetitive plot focused solely on John Wick running and killing assassins for a bounty, ultimately finding it tiresome and boring.",
-      "rubrics": null
-    },
-    "synthesizer_name": "multi_hop_specific_query_synthesizer"
-  },
-  {
-    "eval_sample": {
-      "user_input": "How does 'John Wick: Chapter 3 - Parabellum' combine stunning visuals with its theme of consequences?",
-      "retrieved_contexts": null,
-      "reference_contexts": [
-        "<1-hop>\n\n: 8\nReview: About 6 months ago I saw a picture of the set of 'John Wick: Chapter 3 - Parabellum' featuring Keanu Reeves on horseback shooting at motorcyclists. It was such a great looking shot that I have been waiting eagerly to see how it looked in the actual film ever since. It did not let me down. The style this film possesses is insane. It is one of the best looking action films I have ever seen.",
-        "<2-hop>\n\n: 24\nReview: John Wick: Chapter 3 - Parabellum is quite literally about consequences, dealing with the fallout of John's actions at the end of the previous film and sending him on an even bigger odyssey of violence that continues to explore this world of assassination and deliver beautifully clean action sequences."
-      ],
-      "response": null,
-      "multi_responses": null,
-      "reference": "'John Wick: Chapter 3 - Parabellum' combines stunning visuals with its theme of consequences by featuring breathtaking action sequences, such as Keanu Reeves on horseback shooting at motorcyclists, which are visually impressive and contribute to the film's exploration of the fallout from John's previous actions. This combination results in a film that is both visually striking and thematically rich, as it delves into the consequences of John's odyssey of violence in the world of assassination.",
-      "rubrics": null
-    },
-    "synthesizer_name": "multi_hop_specific_query_synthesizer"
-  },
-  {
-    "eval_sample": {
-      "user_input": "How does John Wick: Chapter 4 improve upon the action sequences compared to John Wick Chapter 2?",
+      "user_input": "How John Wick: Chapter 4 improve on Chapter 3 - Parabellum and what make Keanu Reeves and Chad Stahelski so great?",
       "retrieved_contexts": null,
       "reference_contexts": [
         "<1-hop>\n\n: 19\nReview: John Wick: Chapter 4 picks up where Chapter 3: Parabellum left off. As has been the tradition in the sequels to this beloved martial arts action franchise the action starts from the very inception of the film's opening, and lasts until the curtain falls. JW4 is no exception to that rule. What it does do is improve on the prior installment, and solidify Keanu Reeves as the greatest martial arts action star of all time. If you don't accept that notion, then you must accept the fact that it solidifies Reeves and Director, Chad Stahelski, as the greatest martial arts action pairing of modern times.",
-        "<2-hop>\n\n: 23\nReview: I love me a bit of the old ultra-violence, but I also like a plot of some kind to go with all of the gunfire, blood and broken bones. Failing that, the gory mayhem had better be something special - something that breaks new ground in terms of action cinema. John Wick Chapter 2 is relentlessly violent, Keanu Reeves' eponymous hitman laying waste to almost everyone he crosses paths with, once again finishing most victims with a shot to the head, but the action is simply more of the same, director Chad Stahelski bringing nothing new to the table."
+        "<2-hop>\n\n: 8\nReview: About 6 months ago I saw a picture of the set of 'John Wick: Chapter 3 - Parabellum' featuring Keanu Reeves on horseback shooting at motorcyclists. It was such a great looking shot that I have been waiting eagerly to see how it looked in the actual film ever since. It did not let me down. The style this film possesses is insane. It is one of the best looking action films I have ever seen."
       ],
       "response": null,
       "multi_responses": null,
-      "reference": "John Wick: Chapter 4 improves upon the action sequences compared to John Wick Chapter 2 by enhancing the martial arts action and solidifying Keanu Reeves as the greatest martial arts action star of all time. While Chapter 2 is noted for its relentless violence and Keanu Reeves' hitman character's efficiency, Chapter 4 is praised for its continuous high-octane action from start to finish and the exceptional pairing of Reeves and Director Chad Stahelski, which elevates the film's action to new heights.",
+      "reference": "John Wick: Chapter 4 improves on Chapter 3 - Parabellum by continuing the tradition of intense action sequences from the very start to the end of the film, further solidifying Keanu Reeves as the greatest martial arts action star of all time. Additionally, it highlights the exceptional pairing of Reeves and Director Chad Stahelski as the greatest martial arts action duo of modern times. Chapter 3 - Parabellum was noted for its insane style and memorable scenes, such as Keanu Reeves on horseback shooting at motorcyclists, which set high expectations for the sequel.",
+      "rubrics": null
+    },
+    "synthesizer_name": "multi_hop_specific_query_synthesizer"
+  },
+  {
+    "eval_sample": {
+      "user_input": "Why John Wick 4 better than John Wick 3?",
+      "retrieved_contexts": null,
+      "reference_contexts": [
+        "<1-hop>\n\n: 20\nReview: In a world where movie sequels seem to be loathed even before they are released, the 'John Wick' series has remained remarkably consistent and well received. In fact all three of the first films have the same IMDb rating of 7.4/10 and I noticed recently that I gave them all the same rating of 8/10. Incredibly, I think 'John Wick: Chapter 4' is the best the series has to offer. This movie was a wild ride.",
+        "<2-hop>\n\n: 8\nReview: About 6 months ago I saw a picture of the set of 'John Wick: Chapter 3 - Parabellum' featuring Keanu Reeves on horseback shooting at motorcyclists. It was such a great looking shot that I have been waiting eagerly to see how it looked in the actual film ever since. It did not let me down. The style this film possesses is insane. It is one of the best looking action films I have ever seen."
+      ],
+      "response": null,
+      "multi_responses": null,
+      "reference": "The reviewer believes 'John Wick: Chapter 4' is the best the series has to offer, describing it as a wild ride, while 'John Wick: Chapter 3 - Parabellum' is praised for its insane style and standout action sequences, such as Keanu Reeves on horseback shooting at motorcyclists. Despite both films being well-received, the reviewer personally rates 'Chapter 4' higher.",
+      "rubrics": null
+    },
+    "synthesizer_name": "multi_hop_specific_query_synthesizer"
+  },
+  {
+    "eval_sample": {
+      "user_input": "How has the John Wick franchise set a standard for action films in Hollywood, and what role did Chad Stahelski and Keanu Reeves play in this achievement?",
+      "retrieved_contexts": null,
+      "reference_contexts": [
+        "<1-hop>\n\n: 10\nReview: Most American action flicks released these days have poor screenplays and overuse computer-generated imagery. The John Wick franchise is one of the few exceptions, along with Mission Impossible. These franchises keep getting better with every entry. Hollywood can make action masterpieces, but Marvel has greater demand, so that's what we get most of. It's a shame.",
+        "<2-hop>\n\n: 18\nReview: Ever since the original John Wick, the franchise has set a standard of what action in Hollywood should be. Thanks to Chad Stahelski and Keanu Reeve's knowledge of the technical aspects of shooting action, they've been able to deliver expertly choreographed, shot, and edited action films that are now the go to as examples of great action filmmaking. And so, the expectations for the fourth film were fairly high, especially as it became more apparent this was not only the culmination of everything before it, but a whopping 169 minutes long. Rest assured, however, that it delivers in spades. Everything we have come to know and love is here, but with an infusion of creativity like we haven't seen from the franchise yet."
+      ],
+      "response": null,
+      "multi_responses": null,
+      "reference": "The John Wick franchise has set a standard for action films in Hollywood by delivering expertly choreographed, shot, and edited action sequences. This achievement is largely attributed to Chad Stahelski and Keanu Reeves, whose knowledge of the technical aspects of shooting action has allowed them to create films that are now considered exemplary in the genre. Their work has elevated the franchise to be a benchmark for great action filmmaking, culminating in the highly anticipated fourth film, which continues to deliver with creativity and excellence.",
+      "rubrics": null
+    },
+    "synthesizer_name": "multi_hop_specific_query_synthesizer"
+  },
+  {
+    "eval_sample": {
+      "user_input": "How does Keanu Reeves' portrayal of John Wick contribute to the film's appeal despite criticisms of a weak plot in the sequels?",
+      "retrieved_contexts": null,
+      "reference_contexts": [
+        "<1-hop>\n\n: 10\nReview: Wow what a great surprise this was. I was told by a friend this was good but it's been awhile since I liked a Keanu movie so I was hesitant to try it. Retired hit-man John Wick (Keanu Reeves) loses his wife to cancer. After her funeral he receives a puppy she left him. A few days later some thugs, led by the son of a Russian gangster John used to work for, break into John's house. They beat him up, take the keys to his beloved car, and kill the puppy. They did this not knowing who he was; they just wanted the car. Now John Wick is out for revenge and the Russian gangster is trying to save his son's life by sending killers after John.",
+        "<2-hop>\n\n: 17\nReview: I liked the first two movies, both had a meaning behind all the action that takes place, this movie the plot is weak and the fight scenes way too long for the weak plot. Keanu still portrays his character as the Boogeyman really well, I enjoyed it but just felt it dragged on a bit much and the fight scene especially with Halle could have been cut down."
+      ],
+      "response": null,
+      "multi_responses": null,
+      "reference": "Keanu Reeves' portrayal of John Wick significantly contributes to the film's appeal by embodying the character of the Boogeyman with intensity and skill. Despite criticisms of a weak plot in the sequels, as noted in the review of the third movie, Keanu's performance remains a standout element. His ability to convincingly portray a retired hit-man seeking revenge adds depth to the action sequences, making them engaging for audiences. This is evident from the positive reception of his role in the first movie, where his character's personal loss and subsequent quest for vengeance drive the narrative, capturing the audience's attention.",
       "rubrics": null
     },
     "synthesizer_name": "multi_hop_specific_query_synthesizer"
